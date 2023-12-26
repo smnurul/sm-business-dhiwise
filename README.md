@@ -1,6 +1,6 @@
 ## sm_business_dhiwise
 
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
+
 
 ## Description
 
